@@ -1,0 +1,46 @@
+
+Welcome to the November 2021 Episode of Blindfolded Speedrun News! Again many unique runs this month, and on top of that an exciting time with the start of the 
+marathon season. 
+First of, we have the famous content creator "Pointcrow" beating the GreatPlateau category in The Legend of Zelda, Breath of the Wild blindfolded. It took him
+around 1 hour and 40 minutes and he is with that the 4th person to ever beat the beginning of the game while fully blindfolded. This category involves getting the first 4 shrines and then
+obtaining the glider. The route was mostly based of CrystalSaver's run 
+as far as I know. Really interesting in this game is the sheer amount of normalized sidehops etc. to traverse the immense overworld.
+
+
+Next up we have a very short and tiny run of a game that probably many of you have never seen before. 
+Shaaa has sucessfully beaten the NES game "Bad News Baseball" while blindfolded at the end of October. It basically contains a baseball game,
+that means one round as batter and one as pitcher. Its very short, around 3 minutes long, so if you are interested in sport games, please check it out!
+
+
+Once again we are blessed with more "Super Mario Bros. 1" blindfolded runs this month. And once more it is a new world record by Crescendo! He managed to beat the last record
+that Niftski set with an amazing time of 7:59! That not only marks a new world record but also the first clearance of the 8 minute barrier. There is still more stratting and practicing
+done in the community, so I wonder if we still will see a better run than this in the future. Big GGs!
+
+Saver joined the recent hype of the Metal Gear Solid 2 Tanker speedruns and finished a run himself in 19 minutes and 9 seconds! With that he is the 4th person to beat this category, and very 
+interesting to know is that he learned the entire run in one day! There are awesome resources for the run like the a tutorial by ApacheSmash, so if you are interested in Metal Gear Solid or want 
+to learn a cool blindfolded speedrun on your own, check it out!
+
+
+The very same guy that I mentiond a second ago, who created the Metal Gear Solid 2 Tutorial actually finished another new run this month! It is Metal Gear Solid 3 with the Virtuous Mission IL.
+It is the very first part of Metal Gear Solid 3 and acts as an introduction to the story and mechanics of the game. He beat it in 5:43 which is the fastest time at this moment. Actually, he beat 
+my own time of this category with this run and since there was also a third runner already, we made a new leaderboard for this category on the blindfolded gaming website! Please be sure to check it out!
+
+Another little update on the 120 star journey of myself in Super Mario 64: In November, I managed to beat 3 more Stage RTAs: HMC, TTM and RR. With that we have 8/15 done until the big run happens.
+ I spend the rest
+of the month rerouting and derusting the 70 star speedrun for upcoming marathons, so there was not much further progress with Stage RTAs.
+
+We have some exciting news about major marathons in the next marathon season! 
+First off: GDQ has announced their schedule and we can find two of our community members on the list! ApacheSmash will perform Metal Gear Solid 2 - Tanker Blindfolded with an estimate of 15 minutes,
+and Mitchriz will perform Sekiro - any% Blindfolded with an estimate of 2:45:00
+Then RTA in Japan, the probably second biggest speedrun marathon from Japan, also accepted two blindfolded runs! I got the honor to perform Super Mario 64 - 70 Star Blindfolded with an estimate of 
+2:05:00 and right after me Mikurom will perform Mike Tysons Punch Out with an estimate of 50 min.
+ESA has not released their schedule for their winter event yet, but they will hold an online preshow in which I will appear with a blindfolded speedrun of Super Captain Falcon 64 - 1 Star blindfolded.
+This is a romhack of Super Mario 64 and if you have not seen it yet, you definitely should, it is absolutely crazy!
+
+Thats it for this months blindfolded news, as always, I hope you enjoyed it, go follow the runners and check out their amazing runs, leave a comment and subscribe, and see you next time!
+
+
+
+npx create-react-app bubzia-website
+
+
