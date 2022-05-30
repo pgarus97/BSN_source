@@ -1,1 +1,16 @@
-.
+Ocarina of Time, new PBs in not one but two categories. 
+Kegan any% SRM sub 10 (9:05). credit warp from first area, requires precise memory manipulation, thanks to oot normalized movement doable, ESS Adapter setup at the end. 
+Bubzia Defeat Ganon, 2nd place by 7 seconds with a 35:42, learned new optimizations from saver, submitted to RTAinJapan. speedrun on learning, only 2 weeks 
+
+Nintedo Switch Sports by Saver, managed to beat all main categories / difficulties (Normal 14:56 Strong Powerhouse 31:18), 6 main sports: Volleyball,Badminton,Bowling,Soccer, Chambara, Tennis 
+blindfolded motion controls, + reaction time + lots of RNG. Especially difficult Tennis in Powerhouse and I believe Soccer in Normal.
+
+Duck Life 1 by Creepiumgamer any% NMG 27:09, very interesting web game on PC, goal is to train your duck and win races, for blindfolded, creepiumgamer noticed that you level up your duck even if you fail trainings,
+beginning of the run is maxing out all the stats by repeatedly loosing the training and then clear all the races super fast.
+
+Alttp by Cerpin, managed to complete 3 categories, new WR in the super optimized any% 2:56 beating katun by 2 seconds, includes a glitch that dissappears when you get hit, RNG and careful execution
+cucco easter egg and armos (first boss). Both of these runs also use major glitches and are somewhat a preparation for a longer run Cerpin is working on. I was also told that he wants to try some other
+blindfolded projects outside of ALTTP as well this year!
+
+SM64
+it finally happened: the world first blindfolded 120 run that I worked on for so long! 11:22:43
