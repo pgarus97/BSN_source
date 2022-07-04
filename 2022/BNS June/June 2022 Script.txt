@@ -1,0 +1,58 @@
+Hello Ladies and Gentlemen!
+
+Welcome to yet another Episode of Blindfolded Speedrun News! My name is Bubzia and I will be telling you about the newest achievements and speedruns done 
+by the blindfolded speedrunning community in the month of June 2022!
+
+Lets go right into it and start with an incredibly cool run: Pokemon Crystal - any% NSC by Cerpin!
+NSC stands for no save corruption and this category is incredibly broken despite its name. Its basically any% without the absolute abuse of glitches to instantly go the credits.
+In Pokemon Gold, you can first beat the first arena, then get some important items and checks I believe, and from there on overload your menu with writing some code into the names of the 
+pokemon storage system. That allows you to warp right to the credits at the end of the game. 
+Apparently, in blindfolded the biggest challenge for Cerpin was the sheer memorization, as the box naming sequence to set up the glitch has almost 200 inputs without any visuals to refer to. 
+His PB still has some menuing mistakes, but most of the timesave from now on will be from optimizing the movements throughout the run. Cerpin wants to improve this category a bit more, but
+is also already eyeing a new blindfolded project! Really excited to see what he comes up with next!
+
+Next up we have a new blindfolded world record in Minecraft - Set Seed any%! Pufferfish_King managed to grab the record from Saver! Minecraft is a very precise run, so it is incredible to see this time being 
+optimized more and more. There is basically no room for error or any mistakes, as backups are likely not an option. One missed click or one missed jump usually means a complete restart, and I was told that
+sometimes you dont even realize that you messed up something until you are at the very end trying to shoot the dragon, only to find out you never bought the required arrows 15 minutes ago.
+Big GG for this run, and I am curious if anyone else will come up with futher optimizations in the future!
+
+Then we have our regular participant in this show: Hendy with SM64 - 16 Star! Hendy was on a crazy roll lately and lowered his time in this month from a 27:34 to a 24:52! He even managed to PB 3 day in a row back to back,
+earning him the PB he has now. Hendy is getting very close to the World Record in 16 star, his sum of best is already far below it at this point, so its very exciting to see his grind these days! 
+I myself am joining this race for world record or at least for a good time, I have already relearned most of the run and even optimized large portions of the current strats.
+Biggest shoutout and respect for Hendy achieving these crazy times and motivating me, as well as others to give their best in their speedgames!
+
+Next I want to shortly introduce some IL runs of various games from this month! 
+
+First, we have a run of Spyro 1 from the Reignited Triology by goosehero! This run covers basically the first world of Spyro 1
+an involves a pretty cool skip, the fairy proxy skip. goosehero found a pretty good set up including a sound cue to know if it was performed correctly or not. From there it can be retried if needed.
+Goosehero also thinks a full game run would theoretically be possible, and a group of runners is actually currently figuring out strats for a "Neo Vortex" run.
+
+Next, we also have a Nex, who is currently routing a blindfolded run of New Super Mario Bros Wii! Nex made a playlist with all the ILs so far and even finished a whole world 1 speedrun of it
+Currently the hardest stage seems to be 5-4 because there is only 1 normalization spot and it all requires very precise beatcounts. 
+Still they are planning to eventually do a full game run, which would be incredible to see in my opinion!
+
+Then we have our veteran Sonic runner Azurillkirby, who managed to beat a few more stages in Sonic Adventures! Azurillkirby also thinks a full run with Sonic would be possible, though there are some rather
+tedious and difficult sections in Level 4 and 5, so he doesnt know if he wants to keep on grinding ILs for this game. One fun fact in Emerald Coast is, that in the first section there are only two instances 
+where you have to press anything other than just forward. Maybe people are right when they say that you only have to hold forward to win in Sonic!
+
+Besides that, we also have some crazy IL completions in the rhythm game A Dance of Fire and Ice by oatmeal! They finished 2 songs from the newly released DLC which are incredibly difficult to perform
+as you might see here. You basically need to know these songs perfectly in order to do this and it is super incredible to see such challenges in rhythm games being done lately too!
+
+Last but not least, we have a super cool IL of the stage Hell on Earth in Doom Eternal by KalderinoFeross! This is a really awesome completion as it features blindfolded 1st person shooting action,
+there are many fight segments, movement segments and even a difficult skip which is achieved by resetting the position with void warps and then performing a precise damage boost jump!
+Really cool to see more 1st person games being blindfolded.
+
+Kirby
+
+Botw
+
+RingFit
+
+Shougi
+
+Wario Land 3
+
+
+
+
+  
