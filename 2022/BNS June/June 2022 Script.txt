@@ -23,11 +23,7 @@ Biggest shoutout and respect for Hendy achieving these crazy times and motivatin
 
 Next I want to shortly introduce some IL runs of various games from this month! 
 
-First, we have a run of Spyro 1 from the Reignited Triology by goosehero! This run covers basically the first world of Spyro 1
-an involves a pretty cool skip, the fairy proxy skip. goosehero found a pretty good set up including a sound cue to know if it was performed correctly or not. From there it can be retried if needed.
-Goosehero also thinks a full game run would theoretically be possible, and a group of runners is actually currently figuring out strats for a "Neo Vortex" run.
-
-Next, we also have a Nex, who is currently routing a blindfolded run of New Super Mario Bros Wii! Nex made a playlist with all the ILs so far and even finished a whole world 1 speedrun of it
+First, we have a Nex, who is currently routing a blindfolded run of New Super Mario Bros Wii! Nex made a playlist with all the ILs so far and even finished a whole world 1 speedrun of it!
 Currently the hardest stage seems to be 5-4 because there is only 1 normalization spot and it all requires very precise beatcounts. 
 Still they are planning to eventually do a full game run, which would be incredible to see in my opinion!
 
@@ -42,16 +38,34 @@ Last but not least, we have a super cool IL of the stage Hell on Earth in Doom E
 there are many fight segments, movement segments and even a difficult skip which is achieved by resetting the position with void warps and then performing a precise damage boost jump!
 Really cool to see more 1st person games being blindfolded.
 
-Kirby
+Let us jump back to full game runs! BombHappy has manage to improve his blindfolded any% time in Kirby and the Forgotten Land by quite a bit! And by quite a bit I mean multiple hours!
+BombHappy has been optimizing the route more and more, and plans to still grind to the goal of 5 hours! What now can still be improved is apparently some movement normalizations as well as
+utilizing a notched controller for straight angles! Very excited to see how far this grind will go!
 
-Botw
+Then, we have a huge section of Breath of the Wild runs this month.
+I will start with Mariana, who was present in last months episode already with a Great Plateau run. Well, Mariana finally managed to beat the full any% run of the game! That makes him 
+the second person to ever finish a Breath of the Wild any% run. And his time is really good on top of that! The grind for a better time is still going on though there is some hesitation right now,
+because I myself have also joined the Breath of the Wild speedruns! I rerouted the entire Great Plateau and beat the old WR by around 6-7 minutes. The new optimizations came mostly from strats utilizing 
+a notched controller and a lot of beatcounting, that why we actually have now decided to separate all blindfolded categories in this game into "Notched" vs. "Non-Notched". After my Great Plateau optimizations,
+Saver, the any% World Record holder also rejoined the race and implemented the new notched controller strats into his run, and he managed to optimize the Great Plateau route by still quite a bit. I myself am close 
+to finishing routing any% now, and I believe both Saver and Mariana will join the new notched route in the future too! Besides that, Saver has also done a first run of the "meme" category: Go Home and Die%. A very short
+category that teaches you the basics of the movement of the game etc. so I can highly recommend it if you love the game and want to try something blindfolded yourself in it!
 
-RingFit
+To quickly continue with myself, I have also beaten the WR in blindfolded Ring Fit Adventure, World 1 Intensity 30 this month. Ring Fit Adventure is a sports game with many RPG elements, and the speedrun is actually
+extremely cool in terms of techniques and even skips. This run uses a lot of beatcounting, as well as really crazy muscle intensive workout mashings, so you really get sweating during this one. I made a commentated video
+about the run, so please go ahead and check it out!
 
-Shougi
+Before we come to the end of this episode, I want to also quickly introduce the extremely short run of Honshogi Naitou Kudan Syogi Hiden by Ifuro. This is basically a match in the japanese "chess" variation called Shogi,
+and the goal of this run is to beat the AI in one match. I cannot tell you much about the specifics of Shougi or if it is RNG-manipulatable or anything, but its really cool to see these kind of different games being
+blindfolded in my opinion!
 
-Wario Land 3
+Then, last but not least, we have a huge new any% run of Wario Land 3 by Dolleman! This came out of nowhere for many of us and it is a extremely cool and long 2D Platformer run that I can only highly recommend to check out.
+The Wario Land series is really unique in terms of blindfolded, since it offers many fast and normalized movement options, as well as the ability to reset music cycles by quick saving the game and reentering it.
+Dolleman spend around 2 months working on this run, 6 months went into routing and practice with individual levels, and 2 further weeks for refinements and partial runs as the final preparation.
+Huge congratulations on this achievement!
 
+And with that, this month's episode of blindfolded speedrun news is about to end again! Thank you very much for watching, as always give all the runners some love and check out their amazing runs! If you dont want
+to miss next months episode, hit the subscribe button and as always, tell me which run you liked the most this month! My name is Bubzia and I wish you all a wonderful day, goodbye!
 
 
 
