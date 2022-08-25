@@ -1,3 +1,56 @@
-First, we have a run of Spyro 1 from the Reignited Triology by goosehero! This run covers basically the first world of Spyro 1
-an involves a pretty cool skip, the fairy proxy skip. goosehero found a pretty good set up including a sound cue to know if it was performed correctly or not. From there it can be retried if needed.
-Goosehero also thinks a full game run would theoretically be possible, and a group of runners is actually currently figuring out strats for a "Neo Vortex" run.
+Welcome to yet another episode of blindfolded speedrun news! If you are new here, my name is Bubzia and I cover all the blindfolded speedruns and achievements that have been done by the community in this monthly series!
+This episode had quite a bit of delay due to personal reasons like sickness and so on, but we are finally back!
+Lets get right into it! 
+
+To start things off, we have a couple of runners who tackled Spyro 1 from the Reignited Triology! Mostly two different individual level categories got really popular recently and 
+have been blindfolded by goosehero, 420Chef and narwhal! This run covers basically the first world of Spyro 1
+and it involves a pretty cool skip, the fairy proxy skip. A pretty good setup has been found for that, including a sound cue to know if it was performed correctly or not. 
+From there it can be retried if needed.
+Goosehero also thinks a full game run would theoretically be possible, and the runners are actually currently trying to figure out strats for a "Neo Vortex" run, which is exactly the second IL
+category that has been done so far! It is basically a run from a completed file, where you try to rush to the vortexes of each level as fast as possible.
+Big GG to all the runners and I hope to see more of Spyro being done in the future!
+
+Next up, we have Celeste with multiple runners. There has been a community bounty going on for some custom maps, or romhacks if you are more familiar with this term, and as you
+can imagine our blindfolded celeste experts Klice and Saver as well as some other community members have instantly tackled them. A total of 4 custom maps have been cleared, 
+Cat Isle, Temple of Blindness, Perception and Enchanted Canyon, with the last two being especially difficult. Saver tackled those incredibly hard maps and tried to challenge himself in how fast
+he could memorize these maps.
+Klice said the maps were in general fun to complete and very similar in the learning 
+process to vanilla celeste. Potentially, they want to look into more custom maps in the future, but now the focus will be on an all berries run in vanilla! 
+
+Then, we have a new world first completion of a pretty famous game, which is The Binding of Isaac - Repentance! Toooshi went out and routed a set seed run from new file to the end of chest, 
+which is considered one of the true endings of the game! As a random seed run is close to impossible, Toooshi went with the set seed approach, which actually made routing quite fun apparently. 
+The challenge was to find a seed that is blindfolded viable, has good items as well as easy rooms that cannot potentially kill the run. Especially learning backup strategies is what Toooshi really
+enjoyed in this challenge, knowing where health can be picked up, how to avoid getting lost etc. Big congrats on this run, really cool performance!
+
+As always, we have a big block of SM64 runs in this months news. Let me start by officially announcing, that I have reclaimed the 16 Star World Record for the first time in 3 years from the great Nobori! 
+For a few weeks, I have optimized close to every star and movement in the game, and then grinded runs until I finally got a run that beat the old world record. I still lost quite a lot of time 
+to stupid things like BLJs, so I want to potentially go for a 21 minute run in the future. Besides that, I have also reclaimed the 31 Star World Record, which means that I hold 4/6 WRs again! 
+The only ones left to tackle are 1 star and 70 star, which both will be incredibly hard, but with my new skills from 120 star, I am confident I can potentially reach those goals too. 
+Then, we have Nico2718 who pushed out 3 new runs this month! First, he PBd in 16 star, making him the 4th person to ever reach a sub 40 minute time! This was possible due to some new strats and optimizations
+here and there, and Nico also has tackled 31 Star actually! It was his first completion in just around 2 hours, but upping the star count is always incredibly cool to see for new runners, as it exposes
+them to new stages and challenges. Besides that, Nico also finished a Stage RTA of Whomps Fortress, making him the second person to ever do that! He routed the 100 coin star and reds in his own ways
+and managed to also succeed in this challenge. It makes me really happy to see Nico having so much fun with routing and trying new things, keep it up man!
+
+Then, we have yet again a new completion of the game: Hard Corps Uprising! AntiAaron is grinding this game extremely hard, finishing runs after runs and cutting down more and more time!
+It is a 2D run and gun game with very fast paced action and lots going on at the same time. I was told that most of the run is muscle memory in combination with some setups on 
+for example the sides of the screen into some normalized movement. The most difficult part is the very last endboss, as you after defeating it, need to grab a random helicopter on the screen and you have
+to do so within your 30 lives. If you game over, you need to redo the entire bossfight again, which of course loses a lot of time. AntiAaron by now also has run this game at a live online marathon, so big shoutouts to that!
+
+To stay right at fast paced action, we have DanSpence with the ongoing Devil May Cry IL grind! Mission after mission is slowly being cleared blindfolded, and apparently a full run seems very possible at this point! 
+According to DanSpence, a full run might take around 2-3 hours, but it still needs some work until that point. I believe currently only 2 more missions are left to route until every individual level has been done at 
+least once! Besides that, DanSpence also managed to route a few levels in Devil May Cry 3, which differs quite drastically in terms of the upgrade and style system! There is a playlist with all ILs in the description, please go 
+ahead and check it out!
+
+Last but not least, we have the legendary Metal Gear Solid 2 - Tanker runs back! And let me tell you, it has been a great month for this category!
+First of all, ApacheSmash came back, routed and optimized a few new categories and set a new world record with a time of 7 minutes and 41 seconds. Overall, it was a really clean run and as an outsider, I thought
+it will be extremely difficult to lower the time even more at this point. But then a new challenger appeared, NickRPGreen. Nick started learning and routing the Tanker blindfolded category and absolutely crushed right through it. 
+There was PB after PB, which finally resulted in a new world record with a time of 7 minutes and 26 seconds. Since that is the category on "Very Easy" difficulty, Nick also sat down and routed a way through the "Easy" difficulty.
+I asked Nick about his impressions of trying out blindfolded speedrunning for the first time, and got following answer, which I really like as it shows the best of this wholesome community:
+"I wanted to learn the run to show my appreciation to the hard work put in by the other runners before me. This was my first ever dip into blindfolded running and with MGS2's Tanker being short, it made it an ideal choice. 
+The guides and runs by previous runners made the route very accessible; I couldn't have done it without there support."
+Now, I believe both ApacheSmash and Nick are routing the Plant level of Metal Gear Solid 2 for blindfolded, and I am really excited to see it happening in the future!
+
+And with that, we have yet again arrived at the end of this months episode of blindfolded speedrun news. As always, if you liked any of the runs presented here, please go ahead and check the runners
+as well as their videos, they deserve all the love and recognition in this world. Tell me which run you liked the most in the comments and subscribe to this channel if you dont want to miss the next months episode! 
+Thank you very much for watching, my name is Bubzia and I wish you all a wonderful day. Goodbye!
+
