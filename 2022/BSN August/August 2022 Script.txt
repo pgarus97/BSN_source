@@ -1,1 +1,94 @@
-.
+Hello Ladies and Gentlemen!
+
+Welcome to another episode of Blindfolded Speedrun News, the monthly show that presents all blindfolded speedrun achievements
+by the community!
+
+As always, we have some really cool new game completions as well as classic games being finished by new players!
+
+Lets get right into it!
+
+First of all, I would like to start with a whole bunch of new runs that I discovered while checking the submissions
+of the RTAinJapan Winter 2022 marathon. Apparently, blindfolded speedrunning got really popular in Japan in the
+recent year, so there were a total of 13 blindfolded submissions! I would like to introduce you so some of them!
+
+First, we got a full single segment blindfolded any% run of Metroid Dread by Bane! The difficulty was Rookie and no turbo was used!
+I myself was very interested in this category, so it was a big surprise to see this already being optimized to under 2 hours!
+Metroid Dread plays very much like the classic 2D metroids and consists of a lot of room layout memorization, setups for positioning 
+and boss quick kills!
+
+Then we have SAS_rta, who managed to beat 2 games blindfolded this month! And both are totally new games that have not been blindfolded before!
+We have Live a Live, a RPG that came out on Switch not a long time ago! Sas challenged the Wrestler story mode in this game blindfolded,which is one of many chapters in the game!
+It contains many fight sequences back to back and requires cleverly planned out strategies to beat!
+Second of all, he also finished Touhou Gouyoku Ibun with Kanako on normal difficulty! Many might be familiar with the famous Touhou
+franchise which is known for its very difficult arcade shooter, but actually it also has other games in the universe!
+This one is a 2D horizontal game, more precisely to quote wikipedia: a "horizontal side-scrolling danmaku water action game".
+Anyways, incredibly cool action, tight movement, flashy battles and setups all while blindfolded, this one is a big
+recommendation to watch from my side!
+
+Finally, we have kuugenakikisu with a 100% World Record in A dance of fire and ice! He is a very talented player who also has the visual 100% world record now, and he actually
+got a blindfolded PB of this crazily difficult category live during an online marathon performance! WOW! 
+This game was featured already a few times here, but it is basically a rhythm game with 2 keys where you have to memorize the songs
+perfectly in order to play them blindfolded. On top of that, it gets really difficult with tempo changes, high speed and more shenanigans.
+
+To switch things up a bit, we have next up some classic games that you all should be familiar with!
+First of all, let us start with the Smash Bros. Series.
+
+In Smash 64, WesDogg managed to beat my old world record in Classic Mode with Donkey Kong! WesDogg has been grinding this category for a while now and finally got a run where everything 
+came together! As most Smash Bros. Speedruns, there is a lot of RNG involved in combination with some quick kill setups. Especially useful in this installment and category
+is Donkey Kongs grab, as you can literally drag people offstage. Big GG to the record my friend!
+
+Then we have Smash Bros. Melee with a new world record in Adventure Mode by me! I was practicing this run for my performance live at RTAinJapan and one day before the big event I managed to improve
+my already extremely optimized PB by 9 seconds! There were still a few trolls and bad RNG parts here and there, but after all these thousands of resets and playthroughs I am
+finally happy with this run and will move on! The grind is over! If anyone wants to beat this, please go ahead.
+
+Finally, we have Smash Bros. Brawl in which I also beat the Classic Mode blindfolded! I grinded this project in secret for a few weeks and finally got a sub 8 minute run like I originally wanted.
+This run is even more random than most other blindfolded Smash categories, as it does not have a fixed order of enemies and stages. The difficulty lies in quickly figuring out which stage layout is 
+presented and how to fight each character. I used Ike for his bit range with his sword as well as his strong smash attacks and I think my strats worked out really well.
+
+Next up, we have our usual guest on this show, Nico, with yet another blindfolded SM64 achievement! Nico challenged the BBH Stage RTA this time and managed to beat it in just
+about 20 minutes! BBH presents some new difficulties in blindfolded SM64, mostly coin RNG in 100 coins. This is not an easy task to deal with, as you need backups in case some coins dont fly into the direction you want to.
+But Nico managed just fine, routed as always everything by himself with own and creative strats and finished all 7 stars of this stage. 
+
+Furthermore, Nico also beat his own world record in Red Ball - 12 Levels! This is a 2D web game platformer in which you have to move this red ball through some obstacle courses. The speedrun actually uses some tech and glitches
+like a so called "spike glitch" which gives you some invincibility in certain situations. Especially some of the later stages in this game get really difficult, but Nico managed to get many of those difficult stages first try this time and with some new optimizations and beatcounts, he managed 
+to improve his time by quite a lot! 
+
+Next up, we have Pokemon Firered by Shifty who challenged the Brook% category blindfolded. This means basically a new game to first arena boss fight speedrun.
+Now, Shifty optimized all the movement a lot and got really good RNG in some parts which lead to this massive PB by around 34 seconds in such an already optimized speedrun!
+For those who are interested, the starting pokemon chosen was Squirtle, as it is a really great Pokemon for speedruns. Big congratulations on the run and the worlds first sub 13 in this category!
+
+To move on, I have one more run to present that I did myself this month! And that is Ocarina of Time - any% Defeat Ganon with the new Collapse Skip! This speedrun is basically
+the same as previous installments of the any% defeat ganon runs we had, but a recent discovery allows for a really difficult skip at the end, that in theory should save around 3 minutes as well as lots of headaches because it skips
+one of the hardest sections of the run. Well, the problem is that its basically replacing the hardest section of the run with yet another hardest section of the run.
+This skip involves 5 literally frame perfect inputs back-to back. You can frame advance in Ocarina of TIme by pausing and unpausing, but the timing is really difficult and kind of unpredictable blindfolded.
+In this run I got it second try, which already was really a miracle.
+
+Next we have another custom map of Celeste run by Saver! This time, the map is called Ember Paradise and it is yet another map from the 
+communities celeste bounties. Apparently it is an extremely difficult map as you can see, and Saver managed to beat it in just under 1 hour, which is absolutely 
+incredible. Lots of crazy strats like pausebuffering are needed to complete such difficult map but if anyone can do it, it is definitely Saver, so big GG to that!
+
+We also have yet another runner who was featured here previously: BombHappy with Kirby and the Forgotten Land!
+And wait, you have to see this. It is one of the biggest PBs or timesaves you will ever see. Last time I featured BombHappy, his world record
+was standing at just barely over 6 hours. Now? Now the record is at 2 hours and 45 minutes. Wow! Now BombHappy really grinded all the individual
+sections a lot, focusing on creating fast and consistent strats, especially enabled through the use of a notched controller, and well simply said
+destroyed his old PB! This really shows how much a run can always be optimized if one really sits down and labs out possible alternative strats etc.
+Great to see and keep it up!
+
+Before we come to the end of this months news, I have two more huge runs to present!
+
+First of all, a new world record in blindfolded Breath of the Wild - any% by Mariana with a time of 1 hour and 47 minutes! Mariana grinded and is still
+grinding this category close to every day and these efforts really payed off. He beat the old world record by Saver and now aims to present this run at marathons like
+RTAinJapan, which would be incredibly cool to see! The timesaves came from smaller optimizations here and there, but honestly mostly from just cleaner and faster 
+execution of gameplay which is always really awesome. Congratulations to the run!
+
+Last but definitely not least, we have yet another world first blindfolded run of a new and famous game.
+MightyBurger challenged Ori and the Blind Forest DE - any% blindfolded and managed to pull through in around 2 hours and 40 minutes!
+Ori is a 2D platformer/metroidvania with many difficult sections and the speedrun utilized quite a lot of glitches etc to skip large 
+portions of the game. In order to beat this game blindfolded, MightyBurger had to come up with some clever strategies like using glitches
+that are not even used in the visual speedruns anymore since they are deprecated. One example would be the so called "airswim"
+This glitch allows you to get into a section called sorrow pass earlier than intended. It is a really amazing run and very technical 
+so if you are interested in the game, definitely check it out! 
+
+And that is it for this months blindfolded speedrun news! Lots and lots of runs this time around, I hope it did not get too long for you! As always, please go ahead, check out the runners and their videos and give them some love! 
+You can find all the runs showcased here in the description! Tell me what you favorite runs where in this episode and subscribe if you dont want to miss the news of next month! Thank you very much for watching, my name is Bubzia and this was 
+blindfolded Speedrun News. Have a nice day and bye bye!
