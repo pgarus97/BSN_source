@@ -14,7 +14,8 @@ recent year, so there were a total of 13 blindfolded submissions! I would like t
 First, we got a full single segment blindfolded any% run of Metroid Dread by Bane! The difficulty was Rookie and no turbo was used!
 I myself was very interested in this category, so it was a big surprise to see this already being optimized to under 2 hours!
 Metroid Dread plays very much like the classic 2D metroids and consists of a lot of room layout memorization, setups for positioning 
-and boss quick kills!
+and boss quick kills! It is an extremely fast paced game with many gliches, especially in the visual speedrun you can clip through many walls, perform sequence breaks and whole 
+boss skips. If you are interested in Metroid, I highly suggest you to check the full run out!
 
 Then we have SAS_rta, who managed to beat 2 games blindfolded this month! And both are totally new games that have not been blindfolded before!
 We have Live a Live, a RPG that came out on Switch not a long time ago! Sas challenged the Wrestler story mode in this game blindfolded,which is one of many chapters in the game!
@@ -26,9 +27,11 @@ Anyways, incredibly cool action, tight movement, flashy battles and setups all w
 recommendation to watch from my side!
 
 Finally, we have kuugenakikisu with a 100% World Record in A dance of fire and ice! He is a very talented player who also has the visual 100% world record now, and he actually
-got a blindfolded PB of this crazily difficult category live during an online marathon performance! WOW! 
+got a blindfolded PB of this crazily difficult category live during an online marathon performance! 
 This game was featured already a few times here, but it is basically a rhythm game with 2 keys where you have to memorize the songs
-perfectly in order to play them blindfolded. On top of that, it gets really difficult with tempo changes, high speed and more shenanigans.
+perfectly in order to play them blindfolded. On top of that, it gets really difficult with tempo changes, high speed and more shenanigans. kuugenakikisu gave me some impressions about the run, and said
+that it was more difficult than initially thought, but after all a very enjoyable and rewarding experience. Big GG to your run!
+
 
 To switch things up a bit, we have next up some classic games that you all should be familiar with!
 First of all, let us start with the Smash Bros. Series.
@@ -50,8 +53,8 @@ about 20 minutes! BBH presents some new difficulties in blindfolded SM64, mostly
 But Nico managed just fine, routed as always everything by himself with own and creative strats and finished all 7 stars of this stage. 
 
 Furthermore, Nico also beat his own world record in Red Ball - 12 Levels! This is a 2D web game platformer in which you have to move this red ball through some obstacle courses. The speedrun actually uses some tech and glitches
-like a so called "spike glitch" which gives you some invincibility in certain situations. Especially some of the later stages in this game get really difficult, but Nico managed to get many of those difficult stages first try this time and with some new optimizations and beatcounts, he managed 
-to improve his time by quite a lot! 
+like a so called "spike glitch" which gives you some invincibility in certain situations. Especially some of the later stages in this game get really difficult, but Nico managed to get many of those difficult stages first try this 
+time and with some new optimizations and beatcounts, he managed to improve his time by quite a lot! 
 
 Next up, we have Pokemon Firered by Shifty who challenged the Brook% category blindfolded. This means basically a new game to first arena boss fight speedrun.
 Now, Shifty optimized all the movement a lot and got really good RNG in some parts which lead to this massive PB by around 34 seconds in such an already optimized speedrun!
@@ -90,5 +93,5 @@ This glitch allows you to get into a section called sorrow pass earlier than int
 so if you are interested in the game, definitely check it out! 
 
 And that is it for this months blindfolded speedrun news! Lots and lots of runs this time around, I hope it did not get too long for you! As always, please go ahead, check out the runners and their videos and give them some love! 
-You can find all the runs showcased here in the description! Tell me what you favorite runs where in this episode and subscribe if you dont want to miss the news of next month! Thank you very much for watching, my name is Bubzia and this was 
-blindfolded Speedrun News. Have a nice day and bye bye!
+You can find all the runs showcased here in the description! Tell me what you favorite runs where in this episode and subscribe if you dont want to miss the news of next month! Thank you very much for watching, my name is Bubzia 
+and this was blindfolded Speedrun News. Have a nice day and bye bye!
